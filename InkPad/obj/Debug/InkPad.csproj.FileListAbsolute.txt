@@ -1,0 +1,14 @@
+C:\Users\gmoten\Documents\Visual Studio 2015\Projects\ConwaysGameOfLife\InkPad\InkPad\bin\Debug\InkPad.exe.config
+C:\Users\gmoten\Documents\Visual Studio 2015\Projects\ConwaysGameOfLife\InkPad\InkPad\bin\Debug\InkPad.exe
+C:\Users\gmoten\Documents\Visual Studio 2015\Projects\ConwaysGameOfLife\InkPad\InkPad\bin\Debug\InkPad.pdb
+C:\Users\gmoten\Documents\Visual Studio 2015\Projects\ConwaysGameOfLife\InkPad\InkPad\obj\Debug\InkPad.csprojResolveAssemblyReference.cache
+C:\Users\gmoten\Documents\Visual Studio 2015\Projects\ConwaysGameOfLife\InkPad\InkPad\obj\Debug\MainWindow.g.cs
+C:\Users\gmoten\Documents\Visual Studio 2015\Projects\ConwaysGameOfLife\InkPad\InkPad\obj\Debug\App.g.cs
+C:\Users\gmoten\Documents\Visual Studio 2015\Projects\ConwaysGameOfLife\InkPad\InkPad\obj\Debug\InkPad_MarkupCompile.cache
+C:\Users\gmoten\Documents\Visual Studio 2015\Projects\ConwaysGameOfLife\InkPad\InkPad\obj\Debug\InkPad_MarkupCompile.lref
+C:\Users\gmoten\Documents\Visual Studio 2015\Projects\ConwaysGameOfLife\InkPad\InkPad\obj\Debug\MainWindow.baml
+C:\Users\gmoten\Documents\Visual Studio 2015\Projects\ConwaysGameOfLife\InkPad\InkPad\obj\Debug\InkPad.g.resources
+C:\Users\gmoten\Documents\Visual Studio 2015\Projects\ConwaysGameOfLife\InkPad\InkPad\obj\Debug\InkPad.Properties.Resources.resources
+C:\Users\gmoten\Documents\Visual Studio 2015\Projects\ConwaysGameOfLife\InkPad\InkPad\obj\Debug\InkPad.csproj.GenerateResource.Cache
+C:\Users\gmoten\Documents\Visual Studio 2015\Projects\ConwaysGameOfLife\InkPad\InkPad\obj\Debug\InkPad.exe
+C:\Users\gmoten\Documents\Visual Studio 2015\Projects\ConwaysGameOfLife\InkPad\InkPad\obj\Debug\InkPad.pdb
